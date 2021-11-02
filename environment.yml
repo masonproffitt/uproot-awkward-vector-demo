@@ -1,0 +1,10 @@
+name: uproot-awkward-vector
+channels:
+  - conda-forge
+dependencies:
+  - awkward
+  - matplotlib
+  - numpy
+  - uproot
+  - vector
+  - xrootd
