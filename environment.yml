@@ -6,8 +6,8 @@ dependencies:
   - python
   - xrootd
   - pip:
-    - awkward
-    - matplotlib
+    - awkward>=1.5
+    - matplotlib>=3.4
     - numpy
-    - uproot
-    - vector
+    - uproot>=4.1
+    - vector>=0.8.2
